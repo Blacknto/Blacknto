@@ -1,15 +1,12 @@
-<!docktype html>
+<!DOCKTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Informações Lolzinho</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnetc" href="https://fontsg.static.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=atomic+age&display=swap" rel="stylesheet">
+    <title>Personagens Lolzinho</title>
+    <link rel="preconnetc" href="https://fonts.googleapis.com">
+    <link rel="preconnetc" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Atomic+Age&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <script src="script.js" defer></script>
+    <script scr="script.js" defer></script>
 </head>
-<body>
-    <div class="container">
-        <div class="painel active" style="background-image">
